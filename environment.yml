@@ -7,6 +7,8 @@ dependencies:
   - numpy=1.26.4
   - pillow
   - matplotlib
+  - seaborn
+  - Pylians
   - pip
   - pip:
       - quantimpy==0.4.6
