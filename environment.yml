@@ -1,0 +1,12 @@
+name: cosmo_eval
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.14
+  - numpy=1.26.4
+  - pillow
+  - matplotlib
+  - pip
+  - pip:
+      - quantimpy==0.4.6
