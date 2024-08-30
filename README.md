@@ -63,5 +63,5 @@ I would like to express my gratitude to the original authors for their contribut
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for discussion.
 
 ## Licence
-This project is licensed under the MIT License 
+This project is licensed under the MIT License.
 
